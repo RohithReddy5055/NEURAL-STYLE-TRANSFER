@@ -16,3 +16,4 @@ This Python script implements a Neural Style Transfer system using deep learning
 
 # OUTPUT
 
+<img width="1044" height="401" alt="Image" src="https://github.com/user-attachments/assets/314831e5-1e26-463d-a441-dd4113e37e54" />
